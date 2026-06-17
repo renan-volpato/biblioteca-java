@@ -54,7 +54,7 @@ src
 
 Durante o desenvolvimento foram aplicados diversos conceitos de POO.
 
-### ✔ Herança
+### Herança
 
 A classe abstrata `Obra` serve como base para:
 
